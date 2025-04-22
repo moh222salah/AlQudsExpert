@@ -25,6 +25,3 @@ Conect : https://facebook.com/moh222salah
 *   all the libraries used in this template is the latest version .
 *   Multi-Purpose Design , you can use it as a bussiness template or an online store .
 *   Web Friendly Fonts
-*   in this template you have variety of designs , such as the template contains 4 design for home page , 
-    three designs for about us page , three designs for contact us page , many dsigns for blog single or blog category ,
-    many designs for gallery . all according your need .
